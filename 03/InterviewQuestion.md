@@ -9,3 +9,4 @@ Python is the most used language in top companies such as Intel, IBM, NASA, Pixa
 - [Python Interview Questions for Freshers](https://www.geeksforgeeks.org/python-interview-questions/#python-interview-questions-for-freshers)
 - [Intermediate Python Interview Questions](https://www.geeksforgeeks.org/python-interview-questions/#intermediate-python-interview-questions)
 - [Advanced Python Interview Questions & Answers](https://www.geeksforgeeks.org/python-interview-questions/#advanced-python-interview-questions-answers)
+- [Competitive Programming – A Complete Guide](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=outind)
